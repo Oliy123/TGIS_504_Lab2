@@ -1,10 +1,23 @@
 body {
+
   margin: 0;
   padding: 0;
+  background-color: #B1EAE8;
 }
 
 #map {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 100%;
+
+  width: auto;
+  height: 98vh;
+
+}
+
+#top {
+  background-color: #BCE6BD;
+  padding: 0.01em;
+  margin-bottom:0.75em
+
+}
+ p{
+   font-size:20px
+ }
